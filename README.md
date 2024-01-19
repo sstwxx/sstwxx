@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://media2.giphy.com/media/2Wf4qYgMmou4zjg9qX/source.gif" />
 </p>
-
 <h3 align="center">Hello!
 <h4 align="center">My name is Stewart and I'm a Computer Science student at Tulane University</h3>
 
