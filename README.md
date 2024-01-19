@@ -1,4 +1,5 @@
-![MasterHead](https://64.media.tumblr.com/8b2a2d3957cf13e5548f08504f0e1d4a/tumblr_owsbgsWF5R1r5u9m2o3_r1_500.gif)
+<img src="https://64.media.tumblr.com/8b2a2d3957cf13e5548f08504f0e1d4a/tumblr_owsbgsWF5R1r5u9m2o3_r1_500.gif" style="width: 100%;">
+
 
 <h2 align="center">Hello! I'm Stewart</h1>
 <h3 align="center">I'm a Computer Science student a Tulane University</h3>
