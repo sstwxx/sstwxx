@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://media2.giphy.com/media/2Wf4qYgMmou4zjg9qX/source.gif" />
 </p>
