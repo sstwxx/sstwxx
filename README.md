@@ -8,7 +8,7 @@
 
 - Email me: **sserpas1@tulane.edu**
 
-<h4 align="left">Let's Connect!</h3>
+<h4 align="left">Let's connect!</h3>
 <p align="left">
 <a href="https://linkedin.com/in/stewart-serpas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stewart-serpas" height="30" width="40" /></a>
 </p>
