@@ -1,4 +1,4 @@
-(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a0/db/d9/a0dbd9ab7bd3eb011d94ea97df4ae086.gif")
+<img src="(https://i.pinimg.com/originals/a0/db/d9/a0dbd9ab7bd3eb011d94ea97df4ae086.gif)"
 
 <h2 align="center">Hello! I'm Stewart</h1>
 <h3 align="center">I'm a Computer Science student a Tulane University</h3>
