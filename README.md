@@ -4,7 +4,7 @@
 
 
 <h3 align="center">Hello!
-<h4 align="center">My name is Stewart and I'm a Computer Science student a Tulane University</h3>
+<h4 align="center">My name is Stewart and I'm a Computer Science student at Tulane University</h3>
 
 - Reach me: **sserpas1@tulane.edu**
 
