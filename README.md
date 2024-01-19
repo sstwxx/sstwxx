@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Stewart</h1>
+<h2 align="center">Hello! I'm Stewart</h1>
 <h3 align="center">I'm a Computer Science student a Tulane University</h3>
 
 - Reach me: **sserpas1@tulane.edu**
